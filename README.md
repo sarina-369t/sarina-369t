@@ -5,7 +5,6 @@
 🎯 Open to collaboration on web projects.
 
 ## 🧠 Skills
-## 🧠 مهارت‌ها
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
@@ -33,6 +32,7 @@
     <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="50" height="50" style="margin: 10px; transition: transform 0.2s;" />
   </a>
 </p>
+
 
 
 ## 📫 Contact
