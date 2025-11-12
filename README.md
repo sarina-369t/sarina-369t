@@ -11,7 +11,7 @@
     <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" style="margin: 10px; transition: transform 0.2s;" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="50" height="50" style="margin: 10px; transition: transform 0.2s;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px; transition: transform 0.2s;" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="50" height="50" style="margin: 10px; transition: transform 0.2s;" />
@@ -32,6 +32,7 @@
     <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="50" height="50" style="margin: 10px; transition: transform 0.2s;" />
   </a>
 </p>
+
 
 
 
