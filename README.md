@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello! I'm Sarina  
 
-<!--
-**sarina-369t/sarina-369t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Front-End Developer passionate about clean design and modern web technologies.  
+🌱 Currently learning TypeScript.  
+🎯 Open to collaboration on web projects.
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- HTML  
+- CSS  
+- TypeScript  
+- Angular  
+- TailwindCSS  
+- Git  
+- GitHub  
+- Figma (UX/UI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+📧 sarinazolfaghari01@gmail.com
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to check out my repositories.*
